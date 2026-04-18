@@ -61,7 +61,7 @@ Performed business queries such as:
 
 ---
 
-<img width="4872" height="2656" alt="image" src="https://github.com/user-attachments/assets/e98ef28a-67cf-4343-a48b-7bce6a977398" />
+[<img width="3500" height="1100" alt="image" src="https://github.com/user-attachments/assets/e98ef28a-67cf-4343-a48b-7bce6a977398" />](https://private-user-images.githubusercontent.com/72063042/500731798-8bbd5dc9-eb6c-40c1-8f19-c08b4107f654.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzY0ODU0NDcsIm5iZiI6MTc3NjQ4NTE0NywicGF0aCI6Ii83MjA2MzA0Mi81MDA3MzE3OTgtOGJiZDVkYzktZWI2Yy00MGMxLThmMTktYzA4YjQxMDdmNjU0LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDE4VDA0MDU0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2MzdiOWFkMWMwODA1ZjFiMjMzZDljY2FmYTZjYjQyZjA0ZDNkYTgxMWQ4NGE2ZjZmMzFkZTEzZDhlMjcwNjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRnBuZyJ9.vdumK8EZTsBnSCOfqi07exqa6qAha2BVTSuBsjFfUgY)
 
 
 ## 📊 Dashboard (Power BI)
